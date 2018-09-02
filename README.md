@@ -1,2 +1,1 @@
-# BuyCoins-Coding-Challenge
-Coding Challenge
+Simple CSS grid system framework
